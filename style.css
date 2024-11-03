@@ -60,7 +60,7 @@ button {
 }
 
 img {
-  width: 100%;
+  width: 110%;
 }
 
 :where(section, footer) .section-content {
@@ -382,6 +382,17 @@ header .navbar {
 .contact-section {
   padding: 50px 0 100px;
   background: var(--light-pink-color);
+}
+
+.map-container {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.map-container iframe {
+  max-width: 100%;
+  height: 800;
+  border-radius: 8px;
 }
 
 .contact-section .section-content {
