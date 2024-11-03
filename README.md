@@ -2,7 +2,7 @@
 
 Welcome to the **Crumbs Cafe** website repository! This project was developed as a fictional website for a local café business to demonstrate web development skills and provide an example of a simple, attractive online presence for a small business.
 
-![](https://github.com/ilyasonar/ilyasonar.github.io/blob/main/portfolioscrennshot.png) 
+![](https://ilyasonar.github.io/crumbscafe/mockupscreens.png) 
 
 ## Project Overview
 
