@@ -32,8 +32,7 @@ This website aims to provide users with a delightful browsing experience, making
 
 ## Code Attribution
 
-- Any code or resources sourced from third-party platforms, tutorials, or libraries are credited here:
-    - [Bootstrap](https://getbootstrap.com/): Used for layout and responsive design.
+- Any resources sourced from third-party platforms, tutorials, or libraries are credited here:
     - Images are placeholders sourced from [Unsplash](https://unsplash.com/).
 
 ## Testing Procedures and Findings
