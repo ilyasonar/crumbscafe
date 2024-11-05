@@ -21,7 +21,8 @@ This website aims to provide users with a delightful browsing experience, making
 1. **User-Friendly Navigation**: The website offers intuitive navigation, enabling visitors to easily browse through different pages.
 2. **Responsive Design**: Designed to be responsive across various screen sizes, ensuring a pleasant experience on mobile, tablet, and desktop devices.
 3. **Attractive Visuals**: The design uses visually appealing images and layout to convey the café's inviting atmosphere.
-4. **Contact Form**: Allows users to send inquiries or feedback directly through the website. Contact form created on https://formspree.io/ website. 
+4. **Contact Form**: Allows users to send inquiries or feedback directly through the website. Contact form created on https://formspree.io/ website.
+![](https://github.com/ilyasonar/crumbscafe/blob/main/Screenshot%20(3).png)
 
 ## Technologies Used
 
